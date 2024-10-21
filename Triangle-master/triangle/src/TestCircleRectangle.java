@@ -9,7 +9,11 @@ public class TestCircleRectangle {
         Rectangle rectangle = new Rectangle(2, 4);
         System.out.println("\nПрямоугольник " + rectangle.toString());
         System.out.println("Площадь равна " + rectangle.getArea());
-        System.out.println("Периметр равен " +
-                rectangle.getPerimeter());
+        System.out.println("Периметр равен " + rectangle.getPerimeter());
+
+        //test 3
+
+        //test 4
+
     }
 }
